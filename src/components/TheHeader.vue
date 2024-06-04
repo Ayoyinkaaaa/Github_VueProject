@@ -19,7 +19,7 @@
           <RouterLink to="/Repos">Repositories</RouterLink>
         </li>
         <li>
-          <RouterLink to="/404Error">404</RouterLink>
+          <RouterLink to="/404Error">404 pagenpm install -g serve</RouterLink>
         </li>
       </ul>
     </nav>
